@@ -264,6 +264,7 @@ a {
 	text-decoration: none;
 	transition: color 0.5s;
 	-webkit-transition: color 0.5s;
+	
 }
 
 a:visited {
@@ -281,9 +282,9 @@ a:hover {
 
 footer {
 	margin-top: 2.5em;
-	background: #33a5c0;
+	background-image: url('https://i.pinimg.com/736x/40/f8/c6/40f8c69a33ed2d983da3a988a6a955d6.jpg');
 	padding: 2.5em 0 3.75em 0;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 
 footer {
@@ -309,7 +310,7 @@ footer a p {
 
 footer a p {
 	font-size: 1.25em;
-	color: rgba(255, 255, 255, 0.8);
+	color: rgba(0, 0, 0, 0.8);
 	transition: color 0.5s;
 	-webkit-transition: color 0.5s;
 }
